@@ -1,0 +1,325 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "16560411120c43a518": {
+      "type": "image-with-text",
+      "blocks": {
+        "1656041112eb9a6e70-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Customer Help​",
+            "heading_size": "h1"
+          }
+        },
+        "1656041112eb9a6e70-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>How can we help you today?<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "1656041112eb9a6e70-0",
+        "1656041112eb9a6e70-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Alpecin_Homepage-Images_Bundle_V1_585x504px-ot9jj5ufi50ob431dfj9h5rws26psjsug7725xghgw_09db55af-7b81-4a0e-b93d-189d148a7dcc.png",
+        "color_bg": "#cd0c10",
+        "color_text": "#ffffff",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1656041284e5bbb279": {
+      "type": "collapsible-content",
+      "blocks": {
+        "1656041283caebcbdc-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How long does it take for me to receive my order?",
+            "open_first_collapsible_row": true,
+            "open": true,
+            "open_2": true,
+            "font_size": 16,
+            "font-weight": "600",
+            "icon": "none",
+            "row_content": "<p>We dispatch all orders within 2 business days and our standard shipping times are 3-6 business days from time of dispatch.<br\/>Keep in mind however that delivery times are only indicative and may be delayed during holiday and busy periods.<\/p>",
+            "font_size_2": 12,
+            "page": ""
+          }
+        },
+        "1656041283caebcbdc-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How do I create an account?",
+            "open_first_collapsible_row": false,
+            "open": false,
+            "open_2": false,
+            "font_size": 16,
+            "font-weight": "600",
+            "icon": "none",
+            "row_content": "<p>To create an account, go to “My Account” and fill out the form.  Having your own Plantur 39 account makes checkout easier and helps us remember your details for future purchases.<\/p>",
+            "font_size_2": 12,
+            "page": ""
+          }
+        },
+        "1656041283caebcbdc-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How do I change my shipping address?",
+            "open_first_collapsible_row": false,
+            "open": false,
+            "open_2": false,
+            "font_size": 16,
+            "font-weight": "600",
+            "icon": "none",
+            "row_content": "<p>Go to “My Account” and login to edit your shipping information. Contact us if you’re having any trouble.<\/p>",
+            "font_size_2": 12,
+            "page": ""
+          }
+        },
+        "1656041283caebcbdc-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How do I track the status of my order?",
+            "open_first_collapsible_row": false,
+            "open": false,
+            "open_2": false,
+            "font_size": 16,
+            "font-weight": "600",
+            "icon": "none",
+            "row_content": "<p>Go to “My Account” to view and track your orders. You will also receive email notifications from our delivery partners during the delivery process.<\/p>",
+            "font_size_2": 12,
+            "page": ""
+          }
+        },
+        "bbc22ed6-c4ff-4e5d-9e09-aeeb01c68642": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do you charge goods and services tax (GST)?",
+            "open_first_collapsible_row": false,
+            "open": false,
+            "open_2": false,
+            "font_size": 16,
+            "font-weight": "600",
+            "icon": "none",
+            "row_content": "<p>Yes, there is a goods and services tax (GST) of 10% on all items that are sold or consumed in Australia. This is included in the prices you see on our website. <\/p>",
+            "font_size_2": 12,
+            "page": ""
+          }
+        },
+        "fc49d812-7ae4-46b9-bb59-72528ded5a77": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do you ship to my country?",
+            "open_first_collapsible_row": false,
+            "open": false,
+            "open_2": false,
+            "font_size": 16,
+            "font-weight": "600",
+            "icon": "none",
+            "row_content": "<p>We currently ship to Australia. Please contact us for a shipping quote if you are outside of Australia.<\/p>",
+            "font_size_2": 12,
+            "page": ""
+          }
+        },
+        "6c5d8e23-00e6-4963-b3d9-d9bda238b7b7": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Will my items come in one package?",
+            "open_first_collapsible_row": false,
+            "open": false,
+            "open_2": false,
+            "font_size": 16,
+            "font-weight": "600",
+            "icon": "none",
+            "row_content": "<p>Depending on the items in your order, some products might need to be packaged individually and may arrive on separate dates. Each package will have its own tracking number.  <\/p>",
+            "font_size_2": 12,
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "1656041283caebcbdc-0",
+        "1656041283caebcbdc-1",
+        "1656041283caebcbdc-2",
+        "1656041283caebcbdc-3",
+        "bbc22ed6-c4ff-4e5d-9e09-aeeb01c68642",
+        "fc49d812-7ae4-46b9-bb59-72528ded5a77",
+        "6c5d8e23-00e6-4963-b3d9-d9bda238b7b7"
+      ],
+      "settings": {
+        "caption": "Common purchase queries answered",
+        "heading": "Orders and Shipping",
+        "color_h": "#000000",
+        "column_count": "1",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1656041317bc548dd9": {
+      "type": "collapsible-content",
+      "blocks": {
+        "16560413175bb58d2d-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is your returns policy?",
+            "open_first_collapsible_row": true,
+            "open": true,
+            "open_2": true,
+            "font_size": 16,
+            "font-weight": "600",
+            "icon": "none",
+            "row_content": "<p>Our hair care products undergo strict quality control in Germany but if you receive your product damaged or defective, we have a 7-day return policy in which you may return or exchange faulty or defective products.<\/p><p>For hygienic reasons, however, we are unable to accept non-faulty returns as for items that have been already been used or opened.   <\/p>",
+            "font_size_2": 12,
+            "page": ""
+          }
+        },
+        "16560413175bb58d2d-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "I received the wrong item",
+            "open_first_collapsible_row": false,
+            "open": false,
+            "open_2": false,
+            "font_size": 16,
+            "font-weight": "600",
+            "icon": "none",
+            "row_content": "<p>Get in touch with our customer service agents for assistance – we’ll find a way to make things right again.<\/p>",
+            "font_size_2": 12,
+            "page": ""
+          }
+        },
+        "16560413175bb58d2d-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "My order arrived damaged",
+            "open_first_collapsible_row": false,
+            "open": false,
+            "open_2": false,
+            "font_size": 16,
+            "font-weight": "600",
+            "icon": "none",
+            "row_content": "<p>If you receive your product damaged or defective, we have a 7-day return policy in which you may return or exchange faulty or defective products.<\/p><p>For hygienic reasons, however, we are unable to accept non-faulty returns as for items that have been already been used or opened.   <\/p>",
+            "font_size_2": 12,
+            "page": ""
+          }
+        },
+        "16560413175bb58d2d-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Where should I mail my authorized return?",
+            "open_first_collapsible_row": false,
+            "open": false,
+            "open_2": false,
+            "font_size": 16,
+            "font-weight": "600",
+            "icon": "none",
+            "row_content": "<p>Please <strong>contact us BEFORE returning any item<\/strong> via the form on our contact page. Once our customer service team has provided you with an authorisation, you can return the products to:<\/p><p> <\/p><p>DR WOLFF AUSTRALIA PTY LTD<br\/>Level 6<br\/>8 Spring Street<br\/>Sydney NSW 2000<\/p>",
+            "font_size_2": 12,
+            "page": ""
+          }
+        },
+        "46a6e632-0c4c-4158-9768-1daa62bd7e38": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How do I receive customer support?",
+            "open_first_collapsible_row": false,
+            "open": false,
+            "open_2": false,
+            "font_size": 16,
+            "font-weight": "600",
+            "icon": "none",
+            "row_content": "<p>Simply contact any of our customer service agents through our contact page form.  <\/p>",
+            "font_size_2": 12,
+            "page": ""
+          }
+        },
+        "4ad0101e-6add-4459-babe-c3149dbddc1a": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What do I do if I entered an incorrect shipping address?",
+            "open_first_collapsible_row": false,
+            "open": false,
+            "open_2": false,
+            "font_size": 16,
+            "font-weight": "600",
+            "icon": "none",
+            "row_content": "<p>Depending on the courier, you may be able to change the shipping address right until the point where your package is on board for delivery. You can check if redirection is an option on the courier’s tracking page and their tracking emails. If your package is eligible, you may send them a request for redirection.   <\/p>",
+            "font_size_2": 12,
+            "page": ""
+          }
+        },
+        "60c9a1a3-979a-4339-ba89-4acc55b09339": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I change or cancel an order after I've submitted it?",
+            "open_first_collapsible_row": false,
+            "open": false,
+            "open_2": false,
+            "font_size": 16,
+            "font-weight": "600",
+            "icon": "none",
+            "row_content": "<p>Get in touch with our customer service agents to see how they may help. <\/p>",
+            "font_size_2": 12,
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "16560413175bb58d2d-0",
+        "16560413175bb58d2d-1",
+        "16560413175bb58d2d-2",
+        "16560413175bb58d2d-3",
+        "46a6e632-0c4c-4158-9768-1daa62bd7e38",
+        "4ad0101e-6add-4459-babe-c3149dbddc1a",
+        "60c9a1a3-979a-4339-ba89-4acc55b09339"
+      ],
+      "settings": {
+        "caption": "If you need to swap an item",
+        "heading": "Returns and Exchanges",
+        "color_h": "#000000",
+        "column_count": "1",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16560411120c43a518",
+    "1656041284e5bbb279",
+    "1656041317bc548dd9"
+  ]
+}

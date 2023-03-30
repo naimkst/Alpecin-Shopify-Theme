@@ -1,0 +1,511 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "5e414b19-4764-456c-a8b7-819f06ae87d1": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--16619448434942__5e414b19-4764-456c-a8b7-819f06ae87d1-1671428467780d4e93-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "I've Changed my mind, can i get a refund?",
+            "open_first_collapsible_row": false,
+            "open": false,
+            "open_2": false,
+            "font_size": 16,
+            "font-weight": "600",
+            "icon": "none",
+            "row_content": "<p>Unfortunately, we do not refund products for change of mind. If you have received a faulty or incorect product, please get in contact with us here customercare@dr-wolf.com.au<\/p>",
+            "font_size_2": 12,
+            "page": ""
+          }
+        },
+        "template--16619448434942__5e414b19-4764-456c-a8b7-819f06ae87d1-1671428467780d4e93-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I change or cancel my order after placing it?",
+            "open_first_collapsible_row": false,
+            "open": false,
+            "open_2": false,
+            "font_size": 16,
+            "font-weight": "600",
+            "icon": "none",
+            "row_content": "<p>No, all orders are submitted to our warehouse to be packed and shipped within 2 business days. We cannot guarantee that we can make any alterations to your order after it has been placed. <\/p>",
+            "font_size_2": 12,
+            "page": ""
+          }
+        },
+        "template--16619448434942__5e414b19-4764-456c-a8b7-819f06ae87d1-1671428467780d4e93-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do you charge goods and services tax (GST)?",
+            "open_first_collapsible_row": false,
+            "open": false,
+            "open_2": false,
+            "font_size": 16,
+            "font-weight": "600",
+            "icon": "none",
+            "row_content": "<p>Yes, there is a goods and services tax (GST) of 10% on all items that are sold or consumed in Australia. This is included in the prices you see on our website. <\/p>",
+            "font_size_2": 12,
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16619448434942__5e414b19-4764-456c-a8b7-819f06ae87d1-1671428467780d4e93-0",
+        "template--16619448434942__5e414b19-4764-456c-a8b7-819f06ae87d1-1671428467780d4e93-1",
+        "template--16619448434942__5e414b19-4764-456c-a8b7-819f06ae87d1-1671428467780d4e93-2"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Orders",
+        "color_h": "#000000",
+        "column_count": "1",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "ee24a023-4133-4537-8984-2d5c1f059e40": {
+      "type": "collapsible-content",
+      "blocks": {
+        "153ca295-dfe5-4db7-891c-22b43cc2643d": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How long does it take for me to receive my order?",
+            "open_first_collapsible_row": false,
+            "open": false,
+            "open_2": false,
+            "font_size": 16,
+            "font-weight": "600",
+            "icon": "none",
+            "row_content": "<p>We dispatch all orders within 2 business days and our standard shipping times are 3-6 business days from time of dispatch.<br\/>Keep in mind however that delivery times are only indicative and may be delayed during holiday and busy periods. <\/p>",
+            "font_size_2": 12,
+            "page": ""
+          }
+        },
+        "fbde34b8-71be-4bdf-be0a-1dcb96f28cf7": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How do I track the status of my order?",
+            "open_first_collapsible_row": false,
+            "open": false,
+            "open_2": false,
+            "font_size": 16,
+            "font-weight": "600",
+            "icon": "none",
+            "row_content": "<p>Go to “My Account” to view and track your orders. You will also receive email notifications from our delivery partners during the delivery process.<\/p>",
+            "font_size_2": 12,
+            "page": ""
+          }
+        },
+        "56e64dea-19b1-44c6-8d1c-25ca0517bd95": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Will my items come in one package?",
+            "open_first_collapsible_row": false,
+            "open": false,
+            "open_2": false,
+            "font_size": 16,
+            "font-weight": "600",
+            "icon": "none",
+            "row_content": "<p>Depending on the items in your order, some products might need to be packaged individually and may arrive on separate dates. Each package will have its own tracking number.  <\/p>",
+            "font_size_2": 12,
+            "page": ""
+          }
+        },
+        "5fdc744f-7ca2-4ad2-976a-d3ab97fbc9b5": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do you ship to my country?",
+            "open_first_collapsible_row": false,
+            "open": false,
+            "open_2": false,
+            "font_size": 16,
+            "font-weight": "600",
+            "icon": "none",
+            "row_content": "<p>We currently ship to Australia. Please contact us for a shipping quote if you are outside of Australia.<\/p>",
+            "font_size_2": 12,
+            "page": ""
+          }
+        },
+        "eaa77dbc-6807-4ff4-8f71-26dbc17689f1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do you use discreet packaging?",
+            "open_first_collapsible_row": false,
+            "open": false,
+            "open_2": false,
+            "font_size": 16,
+            "font-weight": "600",
+            "icon": "none",
+            "row_content": "<p>All orders are shipped as discreet as possible in plain packaging. However, our postage labels will still say the company name it was shipped from, Alpecin<\/p>",
+            "font_size_2": 12,
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "153ca295-dfe5-4db7-891c-22b43cc2643d",
+        "fbde34b8-71be-4bdf-be0a-1dcb96f28cf7",
+        "56e64dea-19b1-44c6-8d1c-25ca0517bd95",
+        "5fdc744f-7ca2-4ad2-976a-d3ab97fbc9b5",
+        "eaa77dbc-6807-4ff4-8f71-26dbc17689f1"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Shipping",
+        "color_h": "#000000",
+        "column_count": "1",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "434d0bb9-9e49-42f3-8f11-6d32ef0aa3ff": {
+      "type": "collapsible-content",
+      "blocks": {
+        "c8678e27-6aec-48f8-8c74-19108811f037": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How do I create an account?",
+            "open_first_collapsible_row": false,
+            "open": false,
+            "open_2": false,
+            "font_size": 16,
+            "font-weight": "600",
+            "icon": "none",
+            "row_content": "<p>To create an account, go to “My Account” and fill out the form.  Having your own Plantur 39 account makes checkout easier and helps us remember your details for future purchases.<\/p>",
+            "font_size_2": 12,
+            "page": ""
+          }
+        },
+        "a47df065-596a-4046-a5bd-5972e88418f8": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How do I change my shipping address?",
+            "open_first_collapsible_row": false,
+            "open": false,
+            "open_2": false,
+            "font_size": 16,
+            "font-weight": "600",
+            "icon": "none",
+            "row_content": "<p>Go to “My Account” and login to edit your shipping information. Contact us if you’re having any trouble. <\/p>",
+            "font_size_2": 12,
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "c8678e27-6aec-48f8-8c74-19108811f037",
+        "a47df065-596a-4046-a5bd-5972e88418f8"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Account",
+        "color_h": "#000000",
+        "column_count": "1",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "77a9c1a8-8e68-45c5-82f9-f5bcf105eaa6": {
+      "type": "collapsible-content",
+      "blocks": {
+        "4d6ccab5-6a28-4859-aab0-61e090fe299f": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Where are your products manufactured?",
+            "open_first_collapsible_row": false,
+            "open": false,
+            "open_2": false,
+            "font_size": 16,
+            "font-weight": "600",
+            "icon": "none",
+            "row_content": "<p>All of our products are manufactured in Germany<\/p>",
+            "font_size_2": 12,
+            "page": ""
+          }
+        },
+        "3e6c00ba-0716-49c5-a6f8-38f18f420ba8": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do caffeine shampoos work?",
+            "open_first_collapsible_row": false,
+            "open": false,
+            "open_2": false,
+            "font_size": 16,
+            "font-weight": "600",
+            "icon": "none",
+            "row_content": "<p>Yes, caffeine shampoo is ideal for hair care, particularly for those who wish to do something about thinning hair. Alpecin's unique  formula ensures that the Caffeine Complex in its products are dosed correctly.<\/p>",
+            "font_size_2": 12,
+            "page": ""
+          }
+        },
+        "d5c50aaa-0350-455c-b8f4-b42987871326": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do caffeine shampoos work?",
+            "open_first_collapsible_row": false,
+            "open": false,
+            "open_2": false,
+            "font_size": 16,
+            "font-weight": "600",
+            "icon": "none",
+            "row_content": "<p>The efficacy of all products depends on the metabolism of the individual. This is because each individual reacts differently. You should use the shampoo for a sufficient period of time before you make a final judgment. As a rule, you can expect to see noticeable results after about three months.<\/p>",
+            "font_size_2": 12,
+            "page": ""
+          }
+        },
+        "ccb0b8c4-58a5-4c4d-84a1-8e088543104a": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Will caffeine shampoo keep me awake?",
+            "open_first_collapsible_row": false,
+            "open": false,
+            "open_2": false,
+            "font_size": 16,
+            "font-weight": "600",
+            "icon": "none",
+            "row_content": "<p>No, it will not. The quantity of caffeine is harmless, even for people who are sensitive to caffeine. <\/p>",
+            "font_size_2": 12,
+            "page": ""
+          }
+        },
+        "230fa7c7-f60f-4e57-b273-22769a203fa1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I use a Caffiene shampoo if i have a sensitivity to caffeine?",
+            "open_first_collapsible_row": false,
+            "open": false,
+            "open_2": false,
+            "font_size": 16,
+            "font-weight": "600",
+            "icon": "none",
+            "row_content": "<p>Yes, The quanity of caffeine is really low and it should not affect you. Please consult your doctor before commencing use if you have any underlying medical condition <\/p>",
+            "font_size_2": 12,
+            "page": ""
+          }
+        },
+        "340075cc-82e9-465a-ba7f-7b5c82e70f1c": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Does the formula have side effects?",
+            "open_first_collapsible_row": false,
+            "open": false,
+            "open_2": false,
+            "font_size": 16,
+            "font-weight": "600",
+            "icon": "none",
+            "row_content": "<p>Alpecin is safe for personal use. As a cosmetic product that is widely distributed in Europe, its formulation and packaging is fully compliant with the European Cosmetics Directive (76\/768\/EEC), which requires that all cosmetic products be free of undesirable side effects under normal conditions of use. It has been approved for sale in Australia. <\/p>",
+            "font_size_2": 12,
+            "page": ""
+          }
+        },
+        "efb6d9b9-72e4-4183-95af-cd982c19646a": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How long does it take the formula to work?",
+            "open_first_collapsible_row": false,
+            "open": false,
+            "open_2": false,
+            "font_size": 16,
+            "font-weight": "600",
+            "icon": "none",
+            "row_content": "<p>Due to the hair growth cycle, with consistent use of the product you will start to see results in 60-90days<\/p>",
+            "font_size_2": 12,
+            "page": ""
+          }
+        },
+        "3d7b380f-f475-4bab-a31c-1bbe6b37296b": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I leave the products on longer then their recommended time?",
+            "open_first_collapsible_row": false,
+            "open": false,
+            "open_2": false,
+            "font_size": 16,
+            "font-weight": "600",
+            "icon": "none",
+            "row_content": "<p>To see an effect of the caffeine products you will need to leave the shampoo on for at least 2 minutes. Studies have shown that absorption increases for a period of up to 30 minutes. depending on your scalp and hair type you could leave the products on for up to 30minutes, but 2 minutes is alll that is needed to stimulate hair growth. <\/p>",
+            "font_size_2": 12,
+            "page": ""
+          }
+        },
+        "4a5a56cc-0d43-4807-8b38-cfff9b177dca": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What are the main ingredients in the caffeine formula?",
+            "open_first_collapsible_row": false,
+            "open": false,
+            "open_2": false,
+            "font_size": 16,
+            "font-weight": "600",
+            "icon": "none",
+            "row_content": "<p>The caffeine complex is made up of caffeine, zinc and niacin. Caffeine helps maintain healthy looking hair and Zinc and Niacin help to strengthen hair growth.<\/p>",
+            "font_size_2": 12,
+            "page": ""
+          }
+        },
+        "aafb9492-2d4f-4319-8777-7a716fe06b8c": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Is Alpecin effective on all men?",
+            "open_first_collapsible_row": false,
+            "open": false,
+            "open_2": false,
+            "font_size": 16,
+            "font-weight": "600",
+            "icon": "none",
+            "row_content": "<p>The efficacy of Alpecin always depends on regular application and the individual constitution of the scalp. Moreover other factors such as physical stress, an unhealthy diet, e.g. too much fast food, environmental toxins, psychosomatics, stress, lack of vitamins, occupational stresses (e.g., wearing of a helmet) can also accelerate hair loss.<\/p>",
+            "font_size_2": 12,
+            "page": ""
+          }
+        },
+        "72f2867a-991c-4645-806e-9a2a7e74f6d0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I use Alpecin if i am a woman?",
+            "open_first_collapsible_row": false,
+            "open": false,
+            "open_2": false,
+            "font_size": 16,
+            "font-weight": "600",
+            "icon": "none",
+            "row_content": "<p>Alpecin products were specifically developed for the requirements of male scalps, which is also reflected in the fragrance and the very masculine packaging. However, the caffeine-based active ingredient complex is not gender specific and is thus also effective in women who suffer from hereditary hair loss.In addition, with Plantur 21 and Plantur 39 Dr. Wolff has developed caffeine hair care products which are tailored to the needs of female scalps.<\/p>",
+            "font_size_2": 12,
+            "page": ""
+          }
+        },
+        "14c8bb2b-cc91-4c84-89b3-b5cf6f92f77e": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "when should you start the caffeine therapy?",
+            "open_first_collapsible_row": false,
+            "open": false,
+            "open_2": false,
+            "font_size": 16,
+            "font-weight": "600",
+            "icon": "none",
+            "row_content": "<p>If you are genetically predisposed to hair loss, you should start the therapy as soon as possible, i.e., after puberty. At this point in time, the male hormone testosterone will develop its negative impact on the hair roots' energy supply and shorten the hairs' growth phases until they fall out prematurely. As such, hereditary hair loss is not a question of age – take preventative action on a daily basis, e.g. with Alpecin Caffeine Shampoo C1<\/p>",
+            "font_size_2": 12,
+            "page": ""
+          }
+        },
+        "441bf0e5-12ce-45fc-b5d2-a01ea92c993d": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What happens if i stop the use of caffeine products",
+            "open_first_collapsible_row": false,
+            "open": false,
+            "open_2": false,
+            "font_size": 16,
+            "font-weight": "600",
+            "icon": "none",
+            "row_content": "<p>The regular energy supply from the caffeine complex extends the growth phases of the individual hairs, thereby facilitating hair growth well into old age. If treatment is interrupted, these hairs growth phases will shorten again and hair loss may resume. As a result, successful prevention of hair loss must be conducted regularly and permanently. Daily, long-term application is strongly recommended.<\/p>",
+            "font_size_2": 12,
+            "page": ""
+          }
+        },
+        "cc5ae391-96a3-4945-8d25-e41633df5cd3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Which product is right for me?",
+            "open_first_collapsible_row": false,
+            "open": false,
+            "open_2": false,
+            "font_size": 16,
+            "font-weight": "600",
+            "icon": "none",
+            "row_content": "<p>Many people suffer from scalp problems such as dryness, itching and dandruff. Many Alpecin products have been developed to specifically tackle these complaints. In addition, most of our products contain the proven Alpecin caffeine complex that works to strengthens the hair. The choice of the correct product depends on the scalp problems.<br\/><br\/>Alpecin recommends<br\/>For oily dandruff: <a href=\"https:\/\/www.alpecin.com.au\/products\/alpecin-double-effect-caffeine-shampoo-200ml\" target=\"_blank\" title=\"https:\/\/www.alpecin.com.au\/products\/alpecin-double-effect-caffeine-shampoo-200ml\">Alpecin Double-Effect Caffeine Shampoo<\/a> or <a href=\"https:\/\/www.alpecin.com.au\/products\/alpecin-dandruff-killer-effectively-removes-and-prevents-dandruff-250ml\" target=\"_blank\" title=\"https:\/\/www.alpecin.com.au\/products\/alpecin-dandruff-killer-effectively-removes-and-prevents-dandruff-250ml\">the Dandruff Killer<\/a><br\/>For normal  scalps: <a href=\"https:\/\/www.alpecin.com.au\/products\/alpecin-caffeine-shampoo-c1-375ml\" target=\"_blank\" title=\"https:\/\/www.alpecin.com.au\/products\/alpecin-caffeine-shampoo-c1-375ml\">Alpecin Caffeine Shampoo <\/a><br\/>For sensitive scalps and dry, itchy dandruff: <a href=\"https:\/\/www.alpecin.com.au\/products\/alpecin-hybrid-caffeine-shampoo-250ml\" target=\"_blank\" title=\"https:\/\/www.alpecin.com.au\/products\/alpecin-hybrid-caffeine-shampoo-250ml\">Alpecin Hybrid Caffeine Shampoo <\/a><br\/><\/p>",
+            "font_size_2": 12,
+            "page": ""
+          }
+        },
+        "ae2d5e3d-0e08-48be-8576-57bc5f071852": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can i just drink coffee?",
+            "open_first_collapsible_row": false,
+            "open": false,
+            "open_2": false,
+            "font_size": 16,
+            "font-weight": "600",
+            "icon": "none",
+            "row_content": "<p>Since you ingest coffee orally, it will first pass through the gastrointestinal organs. It is distributed throughout the body and only a tiny quantity reaches the scalp and the hair. As a result, a local and direct supply of caffeine to the hair roots is expedient and necessary. Even the consumption of 50 cups of coffee would not provide the hair with enough caffeine to stimulate hair growth.<\/p>",
+            "font_size_2": 12,
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "4d6ccab5-6a28-4859-aab0-61e090fe299f",
+        "3e6c00ba-0716-49c5-a6f8-38f18f420ba8",
+        "d5c50aaa-0350-455c-b8f4-b42987871326",
+        "ccb0b8c4-58a5-4c4d-84a1-8e088543104a",
+        "230fa7c7-f60f-4e57-b273-22769a203fa1",
+        "340075cc-82e9-465a-ba7f-7b5c82e70f1c",
+        "efb6d9b9-72e4-4183-95af-cd982c19646a",
+        "3d7b380f-f475-4bab-a31c-1bbe6b37296b",
+        "4a5a56cc-0d43-4807-8b38-cfff9b177dca",
+        "aafb9492-2d4f-4319-8777-7a716fe06b8c",
+        "72f2867a-991c-4645-806e-9a2a7e74f6d0",
+        "14c8bb2b-cc91-4c84-89b3-b5cf6f92f77e",
+        "441bf0e5-12ce-45fc-b5d2-a01ea92c993d",
+        "cc5ae391-96a3-4945-8d25-e41633df5cd3",
+        "ae2d5e3d-0e08-48be-8576-57bc5f071852"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Products and Formula",
+        "color_h": "#000000",
+        "column_count": "1",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "main",
+    "5e414b19-4764-456c-a8b7-819f06ae87d1",
+    "ee24a023-4133-4537-8984-2d5c1f059e40",
+    "434d0bb9-9e49-42f3-8f11-6d32ef0aa3ff",
+    "77a9c1a8-8e68-45c5-82f9-f5bcf105eaa6"
+  ]
+}

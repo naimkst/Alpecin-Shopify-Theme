@@ -1,0 +1,133 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "3c90d6aa-63f6-46ac-b1eb-85d63a753dda": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16619405312254__3c90d6aa-63f6-46ac-b1eb-85d63a753dda-1671423080b820bded-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "What Causes Dandruff",
+            "color_heading": "#000000",
+            "heading_size": "h1"
+          }
+        },
+        "template--16619405312254__3c90d6aa-63f6-46ac-b1eb-85d63a753dda-1671423080b820bded-1": {
+          "type": "text",
+          "settings": {
+            "color_text": "#000000",
+            "text": "<p>Losing skin daily is a normal bodily process, as the skin on the scalp regenerates the old skin cells on the surface are sloughed off, you normally wouldn't notice these. However, if the skin cells on the scalp are regenerating too quickly the dead skin sloughing off can cause visible dandruff.<\/p><p><\/p><p>There are two main types of dandruff, oily and dry. Oily dandruff flakes are large, yellow and plaque like. they are greasy and tend to stick the shafts of the hair. While dry dandruff are small white flecks that are usually accompanied by a dry and itchy scalp.<\/p>"
+          }
+        },
+        "cb94e81e-ecf5-48fa-81a4-bf68eb237862": {
+          "type": "image",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/alpecin-dandruff-check-international.jpg",
+            "logo_width": 550
+          }
+        }
+      },
+      "block_order": [
+        "template--16619405312254__3c90d6aa-63f6-46ac-b1eb-85d63a753dda-1671423080b820bded-0",
+        "template--16619405312254__3c90d6aa-63f6-46ac-b1eb-85d63a753dda-1671423080b820bded-1",
+        "cb94e81e-ecf5-48fa-81a4-bf68eb237862"
+      ],
+      "settings": {
+        "text_align": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "332c4601-da0f-4818-8966-1a33c9f1449f": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16619405312254__332c4601-da0f-4818-8966-1a33c9f1449f-16714231551468183b-0": {
+          "type": "column",
+          "settings": {
+            "color_text": "#000000",
+            "title": "Oily Dandruff",
+            "custom_liquid": "",
+            "text": "<p>Your scalp like other areas of skin have sebaceous glands that produce sebum, this is designed to protect the scalp frim moisture loss and the environment. If the sebaceous glands are overactive and produce too much sebum this greasy scalp provides a breeding ground for yeasts, bacteria and other microorganisms. This can result in visible dandruff flakes. Oily Dandruff flakes tend to stick to the hair and are yellowish is colour.<\/p>",
+            "link_label": "Shop Oily Dandruff Products",
+            "link": "shopify:\/\/collections\/oily-dandruff"
+          }
+        },
+        "template--16619405312254__332c4601-da0f-4818-8966-1a33c9f1449f-16714231551468183b-1": {
+          "type": "column",
+          "settings": {
+            "color_text": "#000000",
+            "title": "Dry and Itchy Scalp",
+            "custom_liquid": "",
+            "text": "<p>Around one in 4 men suffer from a sensitive scalp, with dryness, itching, redness or a feeling of tightness. A healthy scalp is surrounded by an intact lipid film. This regulates the moisture and protects the scalp. If this lipid film is impaired, the skin loses moisture and dries out. One possible cause is under-production of the sebaceous glands, which can disrupt the scalp's natural balance. A dry, sensitive scalp is no longer able to perform its protective function. This results in itchy, flaking skin.\n<\/p>",
+            "link_label": "Shop Dry and Itchy Scalp Products",
+            "link": "shopify:\/\/collections\/dry-dandruff"
+          }
+        }
+      },
+      "block_order": [
+        "template--16619405312254__332c4601-da0f-4818-8966-1a33c9f1449f-16714231551468183b-0",
+        "template--16619405312254__332c4601-da0f-4818-8966-1a33c9f1449f-16714231551468183b-1"
+      ],
+      "settings": {
+        "title": "What's the difference?",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "adjust_on_mobile": false,
+        "swipe_on_mobile": false,
+        "slider_visual": "dots",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "ecae5084-a087-46d5-841b-54d25988fcaf": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Anti-Dandruff Range",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "anti-dandruff",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "3c90d6aa-63f6-46ac-b1eb-85d63a753dda",
+    "332c4601-da0f-4818-8966-1a33c9f1449f",
+    "ecae5084-a087-46d5-841b-54d25988fcaf"
+  ]
+}

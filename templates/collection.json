@@ -1,0 +1,124 @@
+{
+  "sections": {
+    "1656464745025613ab": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "16564647459819529d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Join  The 3 Month Growth Challenge",
+            "heading_size": "h1"
+          }
+        },
+        "16564647459819529d-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "16564647459819529d-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop now",
+            "button_link": "shopify:\/\/pages\/3-month-challenge"
+          }
+        }
+      },
+      "block_order": [
+        "16564647459819529d-0",
+        "16564647459819529d-1",
+        "16564647459819529d-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Alpecin_3-month-growth-challenge_1200x628_3c98c6ee-66e6-4673-8c04-48d7521216d3.jpg",
+        "color_bg": "#cd0c10",
+        "color_text": "#ffffff",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1656464523c3b85658": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "165646452311de73bf-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Every Second Man is Affected by Hair Loss",
+            "color_heading": "#cd0c10",
+            "heading_size": "h1"
+          }
+        },
+        "165646452311de73bf-1": {
+          "type": "text",
+          "settings": {
+            "color_text": "#000000",
+            "text": "<p>But what causes it and how do you recognise hair loss?You can find out more about the symptoms, causes and treatment option of hair loss here.<\/p>"
+          }
+        },
+        "165646452311de73bf-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "How To Reduce Hair Loss",
+            "button_link": "shopify:\/\/blogs\/news\/reducing-hair-loss",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "165646452311de73bf-0",
+        "165646452311de73bf-1",
+        "165646452311de73bf-2"
+      ],
+      "settings": {
+        "text_align": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false,
+        "color_scheme": "background-1"
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 16,
+        "columns_desktop": 4,
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": true,
+        "enable_quick_add": true,
+        "enable_filtering": true,
+        "filter_type": "horizontal",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "1656464745025613ab",
+    "1656464523c3b85658",
+    "banner",
+    "product-grid"
+  ]
+}

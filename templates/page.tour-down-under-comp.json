@@ -1,0 +1,145 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "55b676d4-d8f1-4fb1-8f87-f4ed34d46e28": {
+      "type": "image-banner",
+      "blocks": {
+        "template--16617690235134__55b676d4-d8f1-4fb1-8f87-f4ed34d46e28-1671076005ff0ed90e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "WIN 1 OF 5 ALPECIN TOUR DOWN UNDER PRIZE PACK WORTH OVER $380!",
+            "heading_size": "h1"
+          }
+        },
+        "template--16617690235134__55b676d4-d8f1-4fb1-8f87-f4ed34d46e28-1671076005ff0ed90e-1": {
+          "type": "text",
+          "settings": {
+            "text": "ENTER BELOW FOR YOUR CHANCE TO WIN",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--16617690235134__55b676d4-d8f1-4fb1-8f87-f4ed34d46e28-1671076005ff0ed90e-0",
+        "template--16617690235134__55b676d4-d8f1-4fb1-8f87-f4ed34d46e28-1671076005ff0ed90e-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Copy_of_Add_a_heading.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "dbe1586e-a69c-4590-bf5a-6d11e0f7110e": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16617690235134__dbe1586e-a69c-4590-bf5a-6d11e0f7110e-16710764496c940e47-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "CELEBRATE THE ALPECIN CYCLING TEAM COMING DOWN UNDER!",
+            "color_heading": "#000000",
+            "heading_size": "h1"
+          }
+        },
+        "template--16617690235134__dbe1586e-a69c-4590-bf5a-6d11e0f7110e-16710764496c940e47-1": {
+          "type": "text",
+          "settings": {
+            "color_text": "#000000",
+            "text": "<p><strong>The Alpecin cycling team will be in South Australia competing in the Tour Down Under in January. Support the team with your very own team uniform. <\/strong><\/p><p><\/p><p><strong>Enter below for a chance to win 1 of 5 Alpecin Cycling prize packs worth over $380!! Each pack contains:<\/strong><\/p><p><strong>1x Jersey<br\/>1x Shorts<br\/>1x Cycling cap<br\/>1x Drink Bottle<br\/>1x Alpecin Caffeine Shampoo 375ml<\/strong><\/p><p><strong>Prize will be drawn on the 22nd January 2023. Winners will be contacted by the email given below. <\/strong><\/p><p><\/p><p><\/p><p><strong>This competition is now closed.<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16617690235134__dbe1586e-a69c-4590-bf5a-6d11e0f7110e-16710764496c940e47-0",
+        "template--16617690235134__dbe1586e-a69c-4590-bf5a-6d11e0f7110e-16710764496c940e47-1"
+      ],
+      "settings": {
+        "text_align": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "cb882da1-b9b7-4b08-8cd9-ee8a8b4769bd": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "custom_liquid": "<div class=\"klaviyo-form-UzsJjF\"><\/div>",
+        "color_scheme": "background-1",
+        "padding_top": 8,
+        "padding_bottom": 0
+      }
+    },
+    "39cf05ca-3148-431f-81c5-fa5f799c7993": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--16617690235134__39cf05ca-3148-431f-81c5-fa5f799c7993-167107945380ba27c4-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Terms And conditions",
+            "open_first_collapsible_row": false,
+            "open": false,
+            "open_2": false,
+            "font_size": 16,
+            "font-weight": "600",
+            "icon": "none",
+            "row_content": "<p>Giveaway is run by Dr Wolff Australia Pty Ltd (ABN 12 602 714 787) trading as Alpecin. Entries open 09\/01\/23 12:00 AEDT closes 22\/01\/2023 12:00 AEDT. each prize pack includes 1x Jersey1x Shorts1x Cycling cap1x Drink Bottle1x Alpecin Caffeine Shampoo 375ml. Total prize pack has an approximate value of AUD 386.99. Entry is a completed submission form on https:\/\/www.alpecin.com.au\/pages\/tour-down-under-competition . Winners drawn on the 10\/01\/2022 during business hours AEDT based on the most creative answer. Winners will be notified same day as draw by email they entered the giveaway with. Prize packs will be posted out to the nominated address of the winner and are not redeemable for cash. <\/p><p><\/p><p><\/p>",
+            "font_size_2": 10,
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16617690235134__39cf05ca-3148-431f-81c5-fa5f799c7993-167107945380ba27c4-0"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "",
+        "color_h": "#000000",
+        "column_count": "1",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "6de86d75-2006-4a28-a302-683bb6e61e4e": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<script async type=\"text\/javascript\" src=\"https:\/\/static.klaviyo.com\/onsite\/js\/klaviyo.js?company_id=Wip4zq\"><\/script>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "55b676d4-d8f1-4fb1-8f87-f4ed34d46e28",
+    "dbe1586e-a69c-4590-bf5a-6d11e0f7110e",
+    "cb882da1-b9b7-4b08-8cd9-ee8a8b4769bd",
+    "39cf05ca-3148-431f-81c5-fa5f799c7993",
+    "6de86d75-2006-4a28-a302-683bb6e61e4e"
+  ]
+}

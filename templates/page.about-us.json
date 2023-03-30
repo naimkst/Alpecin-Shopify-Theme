@@ -1,0 +1,230 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "1656032260b9ed983a": {
+      "type": "image-with-text",
+      "blocks": {
+        "1656032260b2448c5f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "About us",
+            "heading_size": "h2"
+          }
+        },
+        "1656032260b2448c5f-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The origin of Germany's best-selling men’s caffeine shampoo: Alpecin<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "1656032260b2448c5f-0",
+        "1656032260b2448c5f-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Alpecin_Homepage-Images_Bundle_V1_585x504px-ot9jj5ufi50ob431dfj9h5rws26psjsug7725xghgw.png",
+        "color_bg": "#cd0c10",
+        "color_text": "#ffffff",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1656032345c6a8519d": {
+      "type": "image-with-text",
+      "blocks": {
+        "165603234528872465-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Proudly German-made",
+            "heading_size": "h2"
+          }
+        },
+        "165603234528872465-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The Dr. Wolff Group launched Alpecin in 2004. By 2015, we’d sold over 100 million caffeine shampoos – and another 100 million by 2018 – around the world.  <\/p><p>Alpecin is a line of premium men’s hair care products. Developed by top German scientist Dr. Adolf Klenk, our products were intended for men who wish to improve the appearance of fine, thin hair.  <\/p><p>Over the years, our product range has grown to include Alpecin Caffeine Liquid, Alpecin Double Effect Shampoo, and Alpecin Tuning Shampoo to meet the changing needs of men all over the world.  But one thing has always stayed the same, and that is the uncompromising quality of all our products<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "165603234528872465-0",
+        "165603234528872465-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Get-fuller-looking-hair_Bundle_V1_2d8c18f9-4896-46c5-a4f0-4c350bda656d.jpg",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "165603235070d0ce7f": {
+      "type": "image-with-text",
+      "blocks": {
+        "16560323506ed7a5e5-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "More about the brand",
+            "heading_size": "h2"
+          }
+        },
+        "16560323506ed7a5e5-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Alpecin contains caffeine to strengthens the hair and<br\/>give it more volume with daily washing. Simply massage into the scalp and leave on for 2 minutes, then rinse. Those who do not wash their hair everyday can use Alpecin Caffeine Liquid, a leave-in formula that can be used with other styling products.<\/p><p>Our product range is that quick and easy to use – making it ideal for men who lead busy and active lives. Alpecin’s unique Galenic formulation ensures that caffeine is transported to the strands, promoting stronger and healthier hair with daily use.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "16560323506ed7a5e5-0",
+        "16560323506ed7a5e5-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Energy-for-your-hair.jpg",
+        "color_bg": "#ffffff",
+        "color_text": "#121212",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "1656032354e64984cd": {
+      "type": "image-with-text",
+      "blocks": {
+        "1656032354ce293d3a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "More about the company",
+            "heading_size": "h2"
+          }
+        },
+        "1656032354ce293d3a-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Founded in 1905, Dr. Wolff is a family-owned business in Bielefeld, Germany. The company’s cosmetic division has developed famous drugstore brands like Alcina, Linola, Biorepair, Plantur, and of course, Alpecin, the most prominent brand in our line-up. <\/p><p>We do more than produce caffeine shampoo – we break taboos. We are guided by the principle that if there is a problem, Dr. Wolff has a solution. Our scientists are constantly looking for ways to improve our hair products and develop new ones.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "1656032354ce293d3a-0",
+        "1656032354ce293d3a-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/dr_wolff_gruppe_geschaeftsfuehrung-Small.jpg",
+        "color_bg": "#ffffff",
+        "color_text": "#121212",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "1656033605b80d4c99": {
+      "type": "multicolumn",
+      "blocks": {
+        "1656033605d428b2eb-0": {
+          "type": "column",
+          "settings": {
+            "color_text": "#ffffff",
+            "title": "",
+            "custom_liquid": "",
+            "text": "<p>\"I bought Alpecin Shampoo to give my hair the noticeably fuller appearance it claimed on TV to provide. But almost immediately, I noticed that hair fall stopped. Previously, using conventional shampoos and conditioners there was always a small build up of hair in the shower drain grate. But now, none.\"<\/p><p><\/p><p>Thaifan - Australia<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1656033605d428b2eb-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Alpecin_Homepage-Images_Bundle_V1_585x504px.png",
+            "color_text": "#000000",
+            "title": "",
+            "custom_liquid": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1656033605d428b2eb-2": {
+          "type": "column",
+          "settings": {
+            "color_text": "#ffffff",
+            "title": "",
+            "custom_liquid": "",
+            "text": "<p>\"This is best shampoo I'd used in my life first of all it stopped my hair loosing and then I found that made my hair very fine and easy to styling. In addition has very good smell that you don't need perfume for your hair.\"<\/p><p><\/p><p>Emad - UK<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1656033605d428b2eb-0",
+        "1656033605d428b2eb-1",
+        "1656033605d428b2eb-2"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-2",
+        "columns_mobile": "1",
+        "adjust_on_mobile": false,
+        "swipe_on_mobile": true,
+        "slider_visual": "dots",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1656032260b9ed983a",
+    "1656032345c6a8519d",
+    "165603235070d0ce7f",
+    "1656032354e64984cd",
+    "1656033605b80d4c99"
+  ]
+}

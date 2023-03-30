@@ -1,0 +1,337 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "c22ebfbc-b201-4dfc-82bd-1cc6ae7a81e7": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16619462557950__c22ebfbc-b201-4dfc-82bd-1cc6ae7a81e7-16716019399210cc9b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "How does the Alpecin Caffeine Range Work?",
+            "color_heading": "#000000",
+            "heading_size": "h1"
+          }
+        },
+        "template--16619462557950__c22ebfbc-b201-4dfc-82bd-1cc6ae7a81e7-16716019399210cc9b-1": {
+          "type": "text",
+          "settings": {
+            "color_text": "#000000",
+            "text": "<p>The Caffeine products are designed for men to help strengthen the hair and the Alpecin Caffeine Liquid Forte helps to reduce hair loss. The range is designed for daily use because the caffeine will only stay on the hair for around 24 hours. Daily use is essential to make sure your hair stays energised every day to help strengthen it. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16619462557950__c22ebfbc-b201-4dfc-82bd-1cc6ae7a81e7-16716019399210cc9b-0",
+        "template--16619462557950__c22ebfbc-b201-4dfc-82bd-1cc6ae7a81e7-16716019399210cc9b-1"
+      ],
+      "settings": {
+        "text_align": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "f69638c2-8aef-4cdc-a3c1-80deb8b3ca3f": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16643828809982__f69638c2-8aef-4cdc-a3c1-80deb8b3ca3f-1678668499ddbb5e11-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Alpecin Recharges The Hair",
+            "heading_size": "h1"
+          }
+        },
+        "template--16643828809982__f69638c2-8aef-4cdc-a3c1-80deb8b3ca3f-1678668499ddbb5e11-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>With years of research, Dr. Wolff has perfected a Galenic formulation that unlocks caffeine’s potency. It’s German engineering for your hair. Alpecin and it's caffeine complex recharges your hair daily to maintain a full and strong appearance.<\/p><p><strong>Caffeine - <\/strong>Stimulates and recharges<\/p><p><strong>Zinc -<\/strong> Nourishes weakend strands<\/p><p><strong>Niacin -<\/strong> Improves the look and feel of the hair<\/p><p><\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--16643828809982__f69638c2-8aef-4cdc-a3c1-80deb8b3ca3f-1678668499ddbb5e11-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Read More About Our Formula",
+            "button_link": "shopify:\/\/pages\/our-formula"
+          }
+        }
+      },
+      "block_order": [
+        "template--16643828809982__f69638c2-8aef-4cdc-a3c1-80deb8b3ca3f-1678668499ddbb5e11-0",
+        "template--16643828809982__f69638c2-8aef-4cdc-a3c1-80deb8b3ca3f-1678668499ddbb5e11-1",
+        "template--16643828809982__f69638c2-8aef-4cdc-a3c1-80deb8b3ca3f-1678668499ddbb5e11-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/The_ALPECIN_EFFECT-2_1024x1024_0869c163-e6b3-434f-9af8-b854387d0297.webp",
+        "color_bg": "#FFFFFF",
+        "color_text": "#000000",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "mobile_content_alignment": "left",
+        "padding_top": 4,
+        "padding_bottom": 4
+      }
+    },
+    "871df2f6-d2ad-4165-b15b-0dad3e0b823f": {
+      "type": "multicolumn",
+      "disabled": true,
+      "blocks": {
+        "template--16619462557950__871df2f6-d2ad-4165-b15b-0dad3e0b823f-1671431710e2c95fc1-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/stadium-3.jpg",
+            "color_text": "#000000",
+            "title": "0-3 Months",
+            "custom_liquid": "",
+            "text": "<p>Caffeine formula stays active on the hair for 24 hours, energising the hair. Daily application is necessary\n- you may notice some initial hair loss of fine, weak hairs  when washing your hair<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16619462557950__871df2f6-d2ad-4165-b15b-0dad3e0b823f-1671431710e2c95fc1-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/stadium-2.jpg",
+            "color_text": "#000000",
+            "title": "3-6months",
+            "custom_liquid": "",
+            "text": "<p>Hair loss may be slowed or stopped. New hair growth cycle is starting, you may notice stronger and thicker hair. Hair line may start to fill in in thinning areas<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16619462557950__871df2f6-d2ad-4165-b15b-0dad3e0b823f-1671431710e2c95fc1-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/stadium-1.jpg",
+            "color_text": "#000000",
+            "title": "6-9+ months",
+            "custom_liquid": "",
+            "text": "<p>Hair from new growth cycle has fully grown in. Hair may appear thicker and fuller. thinning hair line may have filled out. Daily use is still key to continue with thicker stronger hair<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16619462557950__871df2f6-d2ad-4165-b15b-0dad3e0b823f-1671431710e2c95fc1-0",
+        "template--16619462557950__871df2f6-d2ad-4165-b15b-0dad3e0b823f-1671431710e2c95fc1-1",
+        "template--16619462557950__871df2f6-d2ad-4165-b15b-0dad3e0b823f-1671431710e2c95fc1-2"
+      ],
+      "settings": {
+        "title": "What to Expect",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "adjust_on_mobile": false,
+        "swipe_on_mobile": false,
+        "slider_visual": "dots",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "c3bc82cb-de94-4e51-b174-5fb0b373f37d": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16619462557950__c3bc82cb-de94-4e51-b174-5fb0b373f37d-16722881938131fda9-1": {
+          "type": "text",
+          "settings": {
+            "color_text": "#000000",
+            "text": "<p>Results may vary depending on individual situations and the Alpecin product used.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16619462557950__c3bc82cb-de94-4e51-b174-5fb0b373f37d-16722881938131fda9-1"
+      ],
+      "settings": {
+        "text_align": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 16
+      }
+    },
+    "9ef13e71-fd0a-438c-a15e-e8b2145fcaea": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Copy_of_Add_a_heading_1.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "cdecfe5a-116c-4b66-bcde-ebe62e900608": {
+      "type": "collection-list",
+      "blocks": {
+        "template--16619462557950__cdecfe5a-116c-4b66-bcde-ebe62e900608-167143157901e64cbf-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "hair-loss"
+          }
+        },
+        "template--16619462557950__cdecfe5a-116c-4b66-bcde-ebe62e900608-167143157901e64cbf-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "hair-thinning"
+          }
+        },
+        "template--16619462557950__cdecfe5a-116c-4b66-bcde-ebe62e900608-167143157901e64cbf-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "oily-dandruff"
+          }
+        },
+        "3b07ded6-ca6d-4a4c-a4d5-b514e03fa7bd": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "dry-dandruff"
+          }
+        },
+        "d20fb3cc-966c-4221-8ab3-61f1454f9a29": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "grey-hair"
+          }
+        }
+      },
+      "block_order": [
+        "template--16619462557950__cdecfe5a-116c-4b66-bcde-ebe62e900608-167143157901e64cbf-0",
+        "template--16619462557950__cdecfe5a-116c-4b66-bcde-ebe62e900608-167143157901e64cbf-1",
+        "template--16619462557950__cdecfe5a-116c-4b66-bcde-ebe62e900608-167143157901e64cbf-2",
+        "3b07ded6-ca6d-4a4c-a4d5-b514e03fa7bd",
+        "d20fb3cc-966c-4221-8ab3-61f1454f9a29"
+      ],
+      "settings": {
+        "title": "Shop Our Ranges",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "color_scheme": "background-1",
+        "show_view_all": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "8128a5b1-7ed8-4afd-a197-faa77a240a7b": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "5e3e5f8b-7ac9-48af-8d85-a8f1a62bcf75": {
+          "type": "image",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/alpecin-high-standards.png",
+            "logo_width": 330
+          }
+        },
+        "template--16619462557950__8128a5b1-7ed8-4afd-a197-faa77a240a7b-167160175040dc29af-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "This is What High Standards Look Like",
+            "color_heading": "#ffffff",
+            "heading_size": "h1"
+          }
+        },
+        "template--16619462557950__8128a5b1-7ed8-4afd-a197-faa77a240a7b-167160175040dc29af-1": {
+          "type": "text",
+          "settings": {
+            "color_text": "#ffffff",
+            "text": "<p>Alpecin products are manufactured under high standards in Germany. The safety of a substance is assessed by the Scientific Committee on Consumer Safety (SCCS) of the European Commission. Only if a substance has been rated safe for end consumers in EVERY respect by the SCCS it can be approved for inclusion in the current Cosmetics Regulation.<\/p>"
+          }
+        },
+        "template--16619462557950__8128a5b1-7ed8-4afd-a197-faa77a240a7b-167160175040dc29af-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "5e3e5f8b-7ac9-48af-8d85-a8f1a62bcf75",
+        "template--16619462557950__8128a5b1-7ed8-4afd-a197-faa77a240a7b-167160175040dc29af-0",
+        "template--16619462557950__8128a5b1-7ed8-4afd-a197-faa77a240a7b-167160175040dc29af-1",
+        "template--16619462557950__8128a5b1-7ed8-4afd-a197-faa77a240a7b-167160175040dc29af-2"
+      ],
+      "settings": {
+        "text_align": "center",
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "1671432109e7c8cfc5": {
+      "type": "apps",
+      "blocks": {
+        "9ccfc5be-0a1c-47a5-84fa-534bf1da106a": {
+          "type": "shopify:\/\/apps\/stamped-product-reviews-ugc\/blocks\/carousel\/a103faaf-2125-4b0e-89fa-de5149736723",
+          "settings": {
+            "title": "Real Reviews from Real Customers",
+            "auto_play": false,
+            "take": 30,
+            "color_title": "",
+            "color_star": "",
+            "color_text": "",
+            "color_link": "",
+            "review_ids": "",
+            "product_ids": "",
+            "category": "",
+            "product_brand": "",
+            "tags": "",
+            "min_rating": "none",
+            "fill_empty": false,
+            "random": false,
+            "with_photos": false
+          }
+        }
+      },
+      "block_order": [
+        "9ccfc5be-0a1c-47a5-84fa-534bf1da106a"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "c22ebfbc-b201-4dfc-82bd-1cc6ae7a81e7",
+    "f69638c2-8aef-4cdc-a3c1-80deb8b3ca3f",
+    "871df2f6-d2ad-4165-b15b-0dad3e0b823f",
+    "c3bc82cb-de94-4e51-b174-5fb0b373f37d",
+    "9ef13e71-fd0a-438c-a15e-e8b2145fcaea",
+    "cdecfe5a-116c-4b66-bcde-ebe62e900608",
+    "8128a5b1-7ed8-4afd-a197-faa77a240a7b",
+    "1671432109e7c8cfc5"
+  ]
+}

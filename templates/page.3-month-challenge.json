@@ -1,0 +1,302 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "16560340983d80a470": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Alpecin_3-month-growth-challenge_1200x628_0686eb14-79de-4ba8-b47b-09b2393ea343.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "165603419698f92f7b": {
+      "type": "rich-text",
+      "blocks": {
+        "1656034196ad70f63b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Almost every Second Man is Affected by Hair Loss",
+            "color_heading": "#cd0c10",
+            "heading_size": "h2"
+          }
+        },
+        "1656034196ad70f63b-1": {
+          "type": "text",
+          "settings": {
+            "color_text": "#000000",
+            "text": "<p><strong>It’s Never Too Late To Fight for your Hair and to keep and protect your remaining hair.<\/strong><\/p><p>By using caffeine to reduce hair loss, you can stop hair loss from progressing and preserve your remaining hair. Start Your 3 Month Challenge now. Use Alpecin Caffeine Liquid Forte in daily for the next 3 Months and experience the difference. Noticeable less hair in the drain and on the pillow within 3 Months. Choose the right Alpecin Shampoo for your scalp type below and let’s get started!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1656034196ad70f63b-0",
+        "1656034196ad70f63b-1"
+      ],
+      "settings": {
+        "text_align": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 20
+      }
+    },
+    "1656034255541d88dd": {
+      "type": "multicolumn",
+      "blocks": {
+        "165603425473fb65f4-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1200px-Eo_circle_red_number-1.svg-ph3mro06u7cnbkc9gjr5erzg0glapzoehsuo1jtryo.png",
+            "color_text": "#000000",
+            "title": "Step 1",
+            "custom_liquid": "",
+            "text": "<p>Choose the right set for your scalp and hair type.<\/p>",
+            "link_label": "Shop Now",
+            "link": "shopify:\/\/collections\/shop-all"
+          }
+        },
+        "165603425473fb65f4-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1200px-Eo_circle_red_number-2.svg-ph3mrn2cndbczydmm1ciua7zf2pxiako5o76k9v64w.png",
+            "color_text": "#000000",
+            "title": "Step 2",
+            "custom_liquid": "",
+            "text": "<p>Receive the products to your door and start your 3 Months. Don’t forget to use the products daily!<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "165603425473fb65f4-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Eo_circle_red_number-3.svg-ph3mrk8u2v7i14hq2i4n4sxlmx3tv79h5a8q4fzcnk.png",
+            "color_text": "#000000",
+            "title": "Step 3",
+            "custom_liquid": "",
+            "text": "<p>Feel the difference after 3 Months. Share your story with us on Instagram @Alpecin_au #Alpecin3monthchallenge<\/p>",
+            "link_label": "Share",
+            "link": "https:\/\/www.instagram.com\/alpecin_au\/"
+          }
+        }
+      },
+      "block_order": [
+        "165603425473fb65f4-0",
+        "165603425473fb65f4-1",
+        "165603425473fb65f4-2"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "adjust_on_mobile": false,
+        "swipe_on_mobile": false,
+        "slider_visual": "dots",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "1656647316cbbcc304": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "starter-pack",
+        "products_to_show": 3,
+        "columns_desktop": 3,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 20,
+        "padding_bottom": 16
+      }
+    },
+    "165603444254391a50": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "Purchase a bundle that's right for your hair type:",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "test-collection",
+        "products_to_show": 4,
+        "columns_desktop": 3,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1656034538414b8a10": {
+      "type": "image-with-text",
+      "blocks": {
+        "16560345387dd86866-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Discover Why Million Men Globally Trust Alpecin",
+            "heading_size": "h2"
+          }
+        },
+        "16560345387dd86866-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>\"Very happy with the product. Being using it for nearly 4 years. Big improvement in my hair growth. Not disappointed at all. Will recommend this product.\"<\/p><p><br\/>- KUYTIM A<\/p>",
+            "text_style": "body"
+          }
+        },
+        "d258df02-cbff-4d62-9c03-45b412628e92": {
+          "type": "button",
+          "settings": {
+            "button_label": "More Reviews",
+            "button_link": "shopify:\/\/pages\/reviews"
+          }
+        }
+      },
+      "block_order": [
+        "16560345387dd86866-0",
+        "16560345387dd86866-1",
+        "d258df02-cbff-4d62-9c03-45b412628e92"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/1.png",
+        "color_bg": "#cd0c10",
+        "color_text": "#ffffff",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "165603467489e17ed4": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "Subscribe to a bundle that's right for your hair type:",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "test-collection",
+        "products_to_show": 4,
+        "columns_desktop": 3,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16560347382911a67b": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "1a82283d-b24a-4bf5-a63c-96d18222e577": {
+          "type": "image",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/alpecin-high-standards.png",
+            "logo_width": 550
+          }
+        },
+        "16560347389f18dcad-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "This is what high standards look like",
+            "color_heading": "#ffffff",
+            "heading_size": "h2"
+          }
+        },
+        "16560347389f18dcad-1": {
+          "type": "text",
+          "settings": {
+            "color_text": "#ffffff",
+            "text": "<p>The Alpecin products are manufactured under high standards in Germany.<br\/>The safety of a substance is assessed by the Scientific Committee on Consumer Safety (SCCS) of the European Commission.<\/p><p>Only if a substance has been rated safe for end consumers in EVERY respect by the SCCS it can be approved for inclusion in the current Cosmetics Regulation.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1a82283d-b24a-4bf5-a63c-96d18222e577",
+        "16560347389f18dcad-0",
+        "16560347389f18dcad-1"
+      ],
+      "settings": {
+        "text_align": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16560340983d80a470",
+    "165603419698f92f7b",
+    "1656034255541d88dd",
+    "1656647316cbbcc304",
+    "165603444254391a50",
+    "1656034538414b8a10",
+    "165603467489e17ed4",
+    "16560347382911a67b"
+  ]
+}

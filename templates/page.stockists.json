@@ -1,0 +1,237 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "cff83f22-a22c-42fb-a0ce-512b5aabe13b": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16619468357886__cff83f22-a22c-42fb-a0ce-512b5aabe13b-1671432361a8bd1203-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Amazon_logo.png",
+            "color_text": "#000000",
+            "title": "",
+            "custom_liquid": "",
+            "text": "<p><\/p>",
+            "link_label": "Dr. Wolff Official Amazon Store",
+            "link": "https:\/\/www.amazon.com.au\/s?me=A2LAISY0K45FTD&marketplaceID=A39IBJ37TRP1C6"
+          }
+        },
+        "template--16619468357886__cff83f22-a22c-42fb-a0ce-512b5aabe13b-1671432361a8bd1203-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ebay_logo_2.png",
+            "color_text": "#000000",
+            "title": "",
+            "custom_liquid": "",
+            "text": "<p><\/p>",
+            "link_label": "Dr. Wolff Official ebay Store",
+            "link": "https:\/\/www.ebay.com.au\/str\/plantur39officialstore"
+          }
+        },
+        "2512eaa4-e355-473d-a55d-806652bc9b51": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Catch_logo.png",
+            "color_text": "#000000",
+            "title": "",
+            "custom_liquid": "",
+            "text": "",
+            "link_label": "Dr. Wolff Official Catch store",
+            "link": "https:\/\/www.catch.com.au\/search?query=Alpecin&search_src=topbar&ac=0"
+          }
+        },
+        "template--16619468357886__cff83f22-a22c-42fb-a0ce-512b5aabe13b-1671432361a8bd1203-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Chemist_warehouse_logo.png",
+            "color_text": "#000000",
+            "title": "Available online and in-store",
+            "custom_liquid": "",
+            "text": "<p><\/p>",
+            "link_label": "Chemistwarehouse.com.au",
+            "link": "https:\/\/www.chemistwarehouse.com.au\/shop-online\/2289\/alpecin"
+          }
+        },
+        "c55be021-06ea-4425-9216-5aad252747ac": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/priceline-logo.jpg",
+            "color_text": "#000000",
+            "title": "Available in-store and online",
+            "custom_liquid": "",
+            "text": "<p><\/p>",
+            "link_label": "priceline.com.au",
+            "link": "https:\/\/www.priceline.com.au\/search\/alpecin"
+          }
+        },
+        "692b08fe-03d8-44e8-a987-6cac3727be4f": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Green_Cross.png",
+            "color_text": "#000000",
+            "title": "Independent Pharmacies",
+            "custom_liquid": "",
+            "text": "<p> Check with your local pharmacy if they are an Alpecin stockist <\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "fcc26217-cd9a-42df-8ecd-928e94330024": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/coles_logo.png",
+            "color_text": "#000000",
+            "title": "Available in-store and online",
+            "custom_liquid": "",
+            "text": "<p><\/p>",
+            "link_label": "coles.com.au",
+            "link": "https:\/\/shop.coles.com.au\/a\/national\/everything\/search\/alpecin?pageNumber=1"
+          }
+        },
+        "47c8a346-a29b-49bc-a4e7-29ee270343b2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/woolworths_logo.png",
+            "color_text": "#000000",
+            "title": "Available in-store and online",
+            "custom_liquid": "",
+            "text": "<p><\/p>",
+            "link_label": "woolworths.com.au",
+            "link": "https:\/\/www.woolworths.com.au\/shop\/search\/products?searchTerm=alpecin"
+          }
+        },
+        "58ea9414-33cd-40f4-a982-9127568b3208": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/iga_logo.png",
+            "color_text": "#000000",
+            "title": "Available in-store and online",
+            "custom_liquid": "",
+            "text": "<p>Selected stores only <\/p>",
+            "link_label": "igashop.com.au",
+            "link": "https:\/\/www.igashop.com.au\/search\/1?q=alpecin"
+          }
+        }
+      },
+      "block_order": [
+        "template--16619468357886__cff83f22-a22c-42fb-a0ce-512b5aabe13b-1671432361a8bd1203-0",
+        "template--16619468357886__cff83f22-a22c-42fb-a0ce-512b5aabe13b-1671432361a8bd1203-1",
+        "2512eaa4-e355-473d-a55d-806652bc9b51",
+        "template--16619468357886__cff83f22-a22c-42fb-a0ce-512b5aabe13b-1671432361a8bd1203-2",
+        "c55be021-06ea-4425-9216-5aad252747ac",
+        "692b08fe-03d8-44e8-a987-6cac3727be4f",
+        "fcc26217-cd9a-42df-8ecd-928e94330024",
+        "47c8a346-a29b-49bc-a4e7-29ee270343b2",
+        "58ea9414-33cd-40f4-a982-9127568b3208"
+      ],
+      "settings": {
+        "title": "Stocked Online and In-Store Nationally",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "adjust_on_mobile": false,
+        "swipe_on_mobile": false,
+        "slider_visual": "dots",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "44be4045-5418-4ec6-82fc-8e0c39c13c8c": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16619468357886__44be4045-5418-4ec6-82fc-8e0c39c13c8c-16716009763d00cf63-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Shop Our Official Online Store",
+            "heading_size": "h1"
+          }
+        },
+        "template--16619468357886__44be4045-5418-4ec6-82fc-8e0c39c13c8c-16716009763d00cf63-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Enjoy Access to exclusive online bundles and free shipping over $50<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--16619468357886__44be4045-5418-4ec6-82fc-8e0c39c13c8c-16716009763d00cf63-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "shopify:\/\/collections\/shop-all"
+          }
+        }
+      },
+      "block_order": [
+        "template--16619468357886__44be4045-5418-4ec6-82fc-8e0c39c13c8c-16716009763d00cf63-0",
+        "template--16619468357886__44be4045-5418-4ec6-82fc-8e0c39c13c8c-16716009763d00cf63-1",
+        "template--16619468357886__44be4045-5418-4ec6-82fc-8e0c39c13c8c-16716009763d00cf63-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Alpecin_Homepage-Images_Bundle_V1_585x504px-ot9jj5ufi50ob431dfj9h5rws26psjsug7725xghgw_09db55af-7b81-4a0e-b93d-189d148a7dcc.png",
+        "color_bg": "#cd0c10",
+        "color_text": "#ffffff",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16716011588134de68": {
+      "type": "apps",
+      "blocks": {
+        "987e64d2-352d-459a-a029-892d6d1dea7d": {
+          "type": "shopify:\/\/apps\/stamped-product-reviews-ugc\/blocks\/carousel\/a103faaf-2125-4b0e-89fa-de5149736723",
+          "settings": {
+            "title": "Real Reviews from Real Customers",
+            "auto_play": false,
+            "take": 30,
+            "color_title": "",
+            "color_star": "",
+            "color_text": "",
+            "color_link": "",
+            "review_ids": "",
+            "product_ids": "",
+            "category": "",
+            "product_brand": "",
+            "tags": "",
+            "min_rating": "none",
+            "fill_empty": false,
+            "random": false,
+            "with_photos": false
+          }
+        }
+      },
+      "block_order": [
+        "987e64d2-352d-459a-a029-892d6d1dea7d"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "cff83f22-a22c-42fb-a0ce-512b5aabe13b",
+    "44be4045-5418-4ec6-82fc-8e0c39c13c8c",
+    "16716011588134de68"
+  ]
+}
